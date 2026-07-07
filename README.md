@@ -1,18 +1,19 @@
 # Tomoki Iso
 
-Bioinformatics student interested in **Software Engineering, AI, and Data Science**.  
-I mainly use **Python, SQL, and Java** for data analysis, automation, and software development.
+Bioinformatics student interested in **Software Engineering, AI, Data Science, and Computational Biology**.  
+I mainly use **Python, R, SQL, and Java** for data analysis, statistical analysis, automation, and software development.
 
-My current focus is on building data-driven systems that connect **data analysis, machine learning, and real user value**.
+My current focus is on building data-driven systems that connect **data analysis, machine learning, software engineering, and real user value**.
 
 ---
 
 ## About Me
 
 - Student at Tokyo University of Pharmacy and Life Sciences
-- Studying bioinformatics, data analysis, and programming
+- Studying bioinformatics, applied statistics, genome data analysis, and programming
 - Interested in server-side development, AI applications, and data-driven systems
-- Mainly using Python for data preprocessing, automation, and machine learning
+- Mainly using Python and R for data preprocessing, statistical analysis, automation, and machine learning
+- Learning computational approaches such as data structures, algorithms, sequence alignment, database search, and variant analysis
 - Currently working on personal projects related to horse racing AI, bioinformatics data analysis, and Kaggle competitions
 
 ---
@@ -23,7 +24,11 @@ My current focus is on building data-driven systems that connect **data analysis
 - Server-side Development
 - AI / Machine Learning
 - Data Analysis
+- Statistical Analysis
 - Bioinformatics
+- Computational Biology
+- Genome Data Analysis
+- Data Structures and Algorithms
 - AI Agent Development
 - Data Processing and Automation
 - Product Improvement through Data
@@ -35,6 +40,7 @@ My current focus is on building data-driven systems that connect **data analysis
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +52,7 @@ My current focus is on building data-driven systems that connect **data analysis
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Data Analysis / Machine Learning
+### Data Analysis / Statistics / Machine Learning
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -65,13 +71,14 @@ This project focuses on prediction and analysis using features such as race cond
 
 The purpose of this project is not only to predict race results, but also to make the reasoning behind predictions more explainable through data.
 
-**Keywords:** Python, Data Analysis, Machine Learning, Feature Engineering
+**Keywords:** Python, Data Analysis, Machine Learning, Feature Engineering, Explainable Prediction
 
 Current focus:
 - Organizing the preprocessing pipeline
 - Improving feature engineering
 - Evaluating prediction results
 - Making the analysis process easier to reproduce
+- Designing a simple interface for prediction and analysis
 
 Repository: Preparing for publication
 
@@ -79,16 +86,19 @@ Repository: Preparing for publication
 
 ### Bioinformatics Data Analysis
 
-Python-based data analysis work related to bioinformatics.
+Python- and R-based data analysis work related to bioinformatics and genome data analysis.
 
-This work focuses on handling biological datasets, automating preprocessing tasks, and improving the reproducibility of analysis workflows.
+This work focuses on handling biological datasets, automating preprocessing tasks, applying statistical analysis, and improving the reproducibility of analysis workflows.
 
-Through this area, I am learning how to design programs that support research activities by making data processing more efficient and reliable.
+Through coursework and research-related learning, I have studied genome data formats, sequence alignment, database search, variant analysis, applied statistics, regression analysis, principal component analysis, clustering, and multivariate analysis.
 
-**Keywords:** Python, Bioinformatics, Data Processing, Automation
+This area helps me connect biological data, statistical reasoning, and software implementation.
+
+**Keywords:** Python, R, Bioinformatics, Genome Data Analysis, Statistical Analysis, Data Processing, Automation
 
 Current focus:
 - Data preprocessing
+- Statistical analysis
 - Information extraction from biological data
 - Workflow organization
 - Reproducible analysis
@@ -106,6 +116,22 @@ I am currently focusing on learning the basic workflow of machine learning proje
 **Keywords:** Python, pandas, scikit-learn, Machine Learning, Regression
 
 Kaggle: https://www.kaggle.com/tomokiiso
+
+---
+
+## Academic Background Related to Software and Data
+
+### Genome Data Analysis and Computational Thinking
+
+I have studied genome data analysis from a computational perspective, including basic data structures, algorithms, sequence alignment, database search, variant analysis, and data processing for biological datasets.
+
+This area has helped me understand how algorithmic thinking and software implementation can be applied to large-scale biological data.
+
+### Applied Statistics
+
+I have studied applied statistics for biological and data analysis contexts, including statistical reasoning, regression analysis, principal component analysis, clustering, multivariate analysis, and data visualization.
+
+This background supports my interest in machine learning, feature engineering, and data-driven decision-making.
 
 ---
 
@@ -130,6 +156,8 @@ I believe AI and data analysis become valuable when they are connected to real p
 - API design
 - AI Agent architecture
 - Machine learning model evaluation
+- Applied statistics for data analysis
+- Data structures and algorithms
 - Clean code and software design
 - Git / GitHub workflow
 - Practical use of generative AI in development
